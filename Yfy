@@ -1,0 +1,21 @@
+<html>
+<body>
+RAVI
+</body>
+<script>
+var firstname=prompt("Please enter your first name");
+var middlename=prompt("Please enter your middle name");
+var lastname=prompt("Please enter your last name");
+var FullName;
+if(middlename=="")
+{
+FullName=firstname+"-"+lastname;
+}
+else
+{
+FullName=firstname+"-"middlename"-"+lastname;
+}
+alert("Your full name is:"+FullName);
+</script>
+</html>
+
