@@ -1,0 +1,11 @@
+
+<html>
+<body>
+String Concatination
+</body>
+</html>
+<script>
+var First_Name=prompt();
+var Last_Name=prompt();
+alert(First_Name +  Last_Name);
+</script>
