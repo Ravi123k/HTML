@@ -1,0 +1,17 @@
+<html>
+
+     <head>
+         <title> HTML</title>
+     </head>
+     <body bgcolor="black" background="C:\Users\Win 10\Pictures\5HTML5.png">
+         <h2 align="center" style="color:silver;"> History of HTML </h2>
+         <p  style="color:silver;text-align:center">  HTML was developed by Tim Berners-Lee in late 1990s.It was released in 1993.Till then,many HTML                                    versions have been released. <br>The latest one is HTML5</p>
+                  <div align="center">
+             <img src="C:\Users\Win 10\Pictures\5HTML5.png" alt="HTML5"  >
+                  </div>    
+           <h1 align="center" style="color:silver;" >Features of HTML </h1>
+     <p align="center" style="color:silver;">  1.Video<br> 2.Figure<br> 3.Section<br>4.NAV<br> 5.Header<br> 6.Footer</p>
+     </body>
+
+</html>
+
